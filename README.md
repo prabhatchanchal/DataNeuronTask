@@ -1,6 +1,6 @@
-# <a href="https://data-neuron-task-dtpiny8uk-prabhatchanchals-projects.vercel.app/" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Task 1</a>
+# <a href="https://data-neuron-task-dtpiny8uk-prabhatchanchals-projects.vercel.app/" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none" target="\_blank" >Task 1</a>
 
-### Deployed on varce : <a href="https://data-neuron-task-dtpiny8uk-prabhatchanchals-projects.vercel.app/" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">DataNeuronTask</a>
+### Deployed on varce : <a href="https://data-neuron-task-dtpiny8uk-prabhatchanchals-projects.vercel.app/" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;" target="_blank">DataNeuronTask</a>
 
 This is the source code of the task: <a href="https://github.com/prabhatchanchal/DataNeuronTask" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">DataNeuronTask</a>
 
