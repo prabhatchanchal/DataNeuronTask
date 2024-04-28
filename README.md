@@ -26,7 +26,7 @@ This is the source code of the task: <a href="https://github.com/prabhatchanchal
 
   <h1>Here is the layout of the project:</h1>
   <div>
-    <img src="./layout.png" alt="layout" style="width: 100%; margin-top: 20px;">
+    <img src="./Layout.png" alt="layout" style="width: 100%; margin-top: 20px;">
 </div>
 
 ### Here is the execution of the project:
