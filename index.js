@@ -26,10 +26,10 @@ $(document).ready(function () {
   $(".box3").resizable({
     handles: "e,w,n,s",
     resize: function (event, ui) {
+      $(".box3").css({ left: 0, top: 0 });
       $(".container1").height($(".container").height() - $(".box3").height());
       $(".container2").height($(".box3").height() + 60);
       $(".container1").width($(".box3").width() + 60);
-
       $(".box1").height($(".container1").height() - 60);
       $(".box2").height($(".container1").height() - 60);
     },
